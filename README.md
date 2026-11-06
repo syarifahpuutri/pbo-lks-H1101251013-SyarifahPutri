@@ -3,7 +3,7 @@
 
 - Nama: Syarifah Putri
 - NIM: H1101251013
-- Kelas: Pemrograman Berorientasi Obejek (B)
+- Kelas: Pemrograman Berorientasi Objek (B)
 
 ## Daftar Pertemuan
 
