@@ -1,0 +1,12 @@
+# Composer dependencies
+/rest-api-perpustakaan/vendor/
+
+# Environment configuration
+/rest-api-perpustakaan/.env
+
+# System files
+**/desktop.ini
+.DS_Store
+
+# Log files
+*.log
